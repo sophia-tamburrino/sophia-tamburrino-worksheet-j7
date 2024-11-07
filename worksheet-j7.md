@@ -10,7 +10,7 @@ The internet layer in the TCP/IP protocol contains all the information about net
 When two processes are running, the transport layer offers ports to have those processes communicate with each other. 
 
 ## 4. What is the difference between SMTP and HTTP?
-
+SMTP is used to transmit 
 
 
 ## 5. What is the difference between an IP address and a domain name?
