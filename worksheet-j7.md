@@ -22,7 +22,6 @@ The port address is used to deliver the packets to the correct process. As multi
 
 
 ## 7. Write code that creates a socket connection to ip address 123.45.678.900 at port 4040. Then, print a color to that socket’s output.
-Code from website:
 ```Java
 public static void main(String args[]){
 
